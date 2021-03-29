@@ -1,0 +1,138 @@
+.topbar-icon {
+	width: 20px;
+	vertical-align: middle;
+	padding-right: 10px;
+}
+
+@media (min-width: 40.0625em) {
+.topbar-icon {
+	width: 50px;
+	vertical-align: middle;
+	padding-right: 15px;
+	}
+}
+
+.white-list {
+color: white;
+}
+.tsc-header__container2 {
+    position: relative;
+    margin-bottom: -10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+@media (min-width: 40.0625em) {
+.tsc-header__container2 {
+    position: relative;
+    margin-bottom: -10px;
+    padding-top: 10px;
+    padding-bottom: 51px;
+}
+}
+
+.tsc-header__special {
+    border-bottom: 0px;
+background: #f1b50f;
+}
+
+.covid-box {
+	border: 5px solid #f1b50f;
+	padding: 10px
+}
+.covid-header {
+	background-color: #365ff5;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	border-top: 10px solid #FF2955;
+}
+
+.covid-dark {
+	background-color: #000;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top: 10px solid #6c585f
+}
+.covid-light {
+	background-color:  #272828;
+	color: #fff;
+	padding: 25px 0;
+}
+.covid-list {
+padding-left: -30px;
+}
+.covid-list__item {
+    font-family: "Interstate", Arial, sans-serif;
+    font-size: 20px;
+}
+.covid-title {
+	margin-top: -5px;
+	font-family: "Interstate", Arial, sans-serif;
+	font-weight: 700;
+    	font-size: 40px;
+}
+.covid-text {
+    font-size: 18px;
+    font-family: "Interstate", Arial, sans-serif;
+    color: #fff;
+}
+.covid-link {
+color: #fff;
+}
+.covid-link:visited {
+color: #fff;
+}
+.service-title {
+font-size: 18px;
+margin-bottom: 2px;
+font-family: "Interstate", Arial, sans-serif;
+}
+.service-body {
+font-size: 14px;
+}
+
+.covid-img {
+padding-left: 16px;
+width: 200px;
+}
+
+@media (min-width: 40.0625em) {
+.covid-img {
+width: 300px;
+padding-left: 0px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+}
+
+.full-width #wrapper {
+width:auto;
+max-width:100%;
+margin:0;
+}
+
+.full-width #global-header-bar {
+display:none;
+}
+
+.full-page-width-wrapper {
+max-width:960px;
+margin-right:15px;
+margin-left:15px;
+}
+
+@media min-width 400625em{
+.full-page-width-wrapper {
+margin-right:30px;
+margin-left:30px;
+}
+}
+
+@media min-width 1020px{
+.full-page-width-wrapper {
+margin-right:auto;
+margin-left:auto;
+}
+}

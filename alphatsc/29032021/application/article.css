@@ -1,0 +1,38 @@
+.tsc-metadata {
+    font-size: 16px;
+    font-family: "Interstate", Arial, sans-serif;
+    color: #141414;
+}
+.metadata-logo-wrapper {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.metadata-logo-wrapper .metadata-column {
+    padding-left: 0;
+ line-height: 1.45em;
+}
+.app-c-publisher-metadata {
+    margin-bottom: 20px;
+    direction: ltr;
+    padding-top: 15px;
+font-family: "Interstate", Arial, sans-serif;
+}
+.app-c-published-dates {
+    direction: ltr;
+    line-height: 1.45em;
+}
+.app-c-publisher-metadata__term {
+    float: left;
+    padding-right: 5px;
+ line-height: 1.45em;
+}
+.app-c-publisher-metadata__other .govuk-link {
+    font-weight: bold;
+ line-height: 1.45em;
+}
+.article-row {
+    margin-right: -15px;
+    margin-left: -15px;
+    border-bottom: 0px solid #b1b4b6;
+    padding-bottom: 20px;
+}
